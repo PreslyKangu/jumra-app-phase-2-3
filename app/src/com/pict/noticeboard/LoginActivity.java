@@ -28,7 +28,7 @@ public class LoginActivity extends Activity {
 	String success, error, jsonuid, jsonname, jsonroll, jsonbranch, jsonyear,
 			jsondiv, jsonbatch, jsonemail;
 	Functions func;
-	AsyncTask<Void, Void, Void> loginAsync;
+	AsyncTask <Void, Void, Void> loginAsync;
 	ProgressDialog dialog;
 	private static String KEY_SUCCESS = "success";
 	private static String KEY_ERROR = "error";
