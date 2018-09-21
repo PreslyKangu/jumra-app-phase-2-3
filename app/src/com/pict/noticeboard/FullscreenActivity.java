@@ -30,7 +30,7 @@ public class FullscreenActivity extends Activity {
 		timer.start();
 	}
 
-	/* (non-Javadoc)
+	/*(non-Javadoc)
 	 * @see android.app.Activity#onPause()
 	 */
 	@Override
